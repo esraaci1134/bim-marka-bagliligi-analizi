@@ -1,4 +1,3 @@
-[bi_m_marka_ba_l_l_analizi_readme.md](https://github.com/user-attachments/files/34666782/bi_m_marka_ba_l_l_analizi_readme.md)
 # 🛒 BİM Marka Bağlılığı ve Tüketici Davranışları Analizi (SPSS & MS Excel)
 
 Bu proje; perakende sektörünün öncü markalarından BİM A.Ş.'ye yönelik tüketici algısını, marka sadakatini ve bağlılığı oluşturan temel etkenleri ölçmek amacıyla **303 katılımcıdan alınan anket verileri** üzerinde gerçekleştirilen bir nicel veri analizi çalışmasıdır.
